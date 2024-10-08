@@ -2,3 +2,5 @@ venv
 env
 .venv
 .env
+APS_4.egg-info
+build
